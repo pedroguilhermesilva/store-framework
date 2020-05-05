@@ -1,5 +1,5 @@
 {
   "store.home": {
-    "blocks": ["rich-text"]
+    "blocks": ["Hello World"]
   }
 }
